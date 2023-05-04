@@ -145,7 +145,3 @@ http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otros" tvg-id="SETANTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" ,SETANTA SPORTS 1080  7206
 http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otros" tvg-id="FOX" tvg-logo="https://img2.freepng.es/20180614/iju/kisspng-fox-broadcasting-company-logo-television-fox-inter-television-program-5b2265b47733b2.8204491215289809164883.jpg" ,FOX SPORTS 1  c9c0
-http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Otros" tvg-id="FOX" tvg-logo="https://img2.freepng.es/20180614/iju/kisspng-fox-broadcasting-company-logo-television-fox-inter-television-program-5b2265b47733b2.8204491215289809164883.jpg" ,FOX SPORTS 2  cba8
-http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
