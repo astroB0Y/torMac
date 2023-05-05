@@ -135,11 +135,11 @@ acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 group-title="Otros" tvg-id="I249.19158.schedulesdirect.org" tvg-logo="https://i.ibb.co/CBW0Z8K/Espn.png" ,ESPN COLOMBIA  2492
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="Otros" tvg-id="I898.65930.schedulesdirect.org" tvg-logo="https://i.ibb.co/4M4zqSm/espnextra.png" ,ESPN EXTRA COLOMBIA   9c3f
+#EXTINF:-1 group-title="Otros" tvg-id="I898.65930.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/astroB0Y/logos/main/ESPNextra.jpg" ,ESPN EXTRA COLOMBIA   9c3f
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otros" tvg-id="I254.37747.schedulesdirect.org" tvg-logo="https://i.ibb.co/vhbwwMZ/ESPN2.png" ,ESPN 2 COLOMBIA  e40b
+#EXTINF:-1 group-title="Otros" tvg-id="I254.37747.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/astroB0Y/logos/main/ESPN2.jpg" ,ESPN 2 COLOMBIA  e40b
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 group-title="Otros" tvg-id="I261.79042.schedulesdirect.org" tvg-logo="https://i.ibb.co/1rQdNFn/Espn3.png" ,ESPN 3 COLOMBIA  b97f
+#EXTINF:-1 group-title="Otros" tvg-id="I261.79042.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/astroB0Y/logos/main/ESPN3.jpg" ,ESPN 3 COLOMBIA  b97f
 acestream://b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 group-title="Otros" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 M+ HD 1080  864f
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
